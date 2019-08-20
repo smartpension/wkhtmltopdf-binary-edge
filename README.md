@@ -51,7 +51,7 @@ For Alpine Linux support, please use [this fork](https://github.com/khalilgharba
 In your `Gemfile`:
 
 ```ruby
-gem 'wkhtmltopdf-binary-edge', git: 'https://github.com/pawelma/wkhtmltopdf-binary-edge'
+gem 'wkhtmltopdf-binary-edge', git: 'https://github.com/smartpension/wkhtmltopdf-binary-edge', branch: 'master'
 ```
 
 ### current version 0.12.5
